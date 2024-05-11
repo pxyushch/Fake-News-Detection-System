@@ -34,15 +34,15 @@ What things you need to install the software and how to install them:
    ```
 #### Dataset used
 The data source used for this project is Fake and Real News dataset which contains 2 files with .csv format for test, train. Below is some description about the data files used for this project.
-*FAKE AND REAL NEWS DATASET
+* FAKE AND REAL NEWS DATASET
 This dataset contains two file named as true.csv and fake.csv .
 The dataset contain 4 columns for train and test.
 Dataset columns:
 
-*1.Title: title of news article
-*2.Text: body text of news article
-*3.Subject: subject of news article
-*4.Date: publish date of news article
+* 1.Title: title of news article
+* 2.Text: body text of news article
+* 3.Subject: subject of news article
+* 4.Date: publish date of news article
 
 ### File descriptions
 
